@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26403.0
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staccato", "Staccato\Staccato.csproj", "{8FF2231F-C33B-8510-264C-274386B8629B}"
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staccato", "Staccato.csproj", "{8FF2231F-C33B-8510-264C-274386B8629B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staccato.Editor", "Staccato\Staccato.Editor.csproj", "{33E324BA-F804-3A5A-A406-890680D66641}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staccato.Editor", "Staccato.Editor.csproj", "{33E324BA-F804-3A5A-A406-890680D66641}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
