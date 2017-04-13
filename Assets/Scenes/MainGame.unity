@@ -137,7 +137,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectType: {fileID: 1630029537202410, guid: db84fc352a6eb6e46bf02180eeae5504, type: 2}
-  count: 1000
+  count: 300
 --- !u!114 &718990820
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -205,7 +205,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CubeObject: {fileID: 718990819}
-  Frequency: 0.1
+  Frequency: 0.5
 --- !u!1 &808530885
 GameObject:
   m_ObjectHideFlags: 0
@@ -414,7 +414,6 @@ GameObject:
   - component: {fileID: 1426022308}
   - component: {fileID: 1426022307}
   - component: {fileID: 1426022306}
-  - component: {fileID: 1426022311}
   - component: {fileID: 1426022312}
   m_Layer: 0
   m_Name: Main Camera
@@ -493,18 +492,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 30, y: 0, z: 0}
---- !u!114 &1426022311
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1426022305}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  profile: {fileID: 11400000, guid: 67112f3de63368f44ae6e074edd0c3b9, type: 2}
 --- !u!114 &1426022312
 MonoBehaviour:
   m_ObjectHideFlags: 0
